@@ -7,15 +7,13 @@
 
 
 - 💬 Ask me about **Data Science, Python, MySQL**
-
-- 📫 How to reach me **aurafarmerone@gmail.com**
-
+- 📫 How to reach me **ritiktyagiai@gmail.com**
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aurafarmerone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritiktyagiai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://kaggle.com/@AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://medium.com/@AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@AuraFarmerOne" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AuraFarmerOne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AuraFarmerOne" height="30" width="40" /></a>
