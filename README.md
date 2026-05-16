@@ -36,6 +36,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurafarmerone&show_icons=true&locale=en&layout=compact" alt="ritiktyagiai" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurafarmerone&label=Profile%20views&color=0e75b6&style=flat" alt="ritiktyagiai" /> </p>
 
 
