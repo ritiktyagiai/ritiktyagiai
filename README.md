@@ -36,6 +36,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritiktyagiai&show_icons=true&locale=en&layout=compact" alt="ritiktyagiai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurafarmerone&show_icons=true&locale=en&layout=compact" alt="ritiktyagiai" /></p>
 
 
