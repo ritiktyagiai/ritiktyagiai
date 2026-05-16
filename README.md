@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
 <h3 align="center">Machine Learning Engineer focused on building scalable, production-ready AI systems that solve real business problems.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ritiktyagiai&label=Profile%20views&color=0e75b6&style=flat" alt="ritiktyagiai" />
-</p>
-
 - 💼 I design and implement end-to-end ML pipelines: data collection, feature engineering, model training, evaluation, deployment, and monitoring.
 - 🧠 I work with Python, PyTorch, TensorFlow, scikit-learn, SQL, and cloud-native tooling to deliver reliable models.
 - 🚀 I enjoy transforming messy datasets into high-impact ML solutions and iterating toward better performance.
