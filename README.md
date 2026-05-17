@@ -1,6 +1,6 @@
 ![MasterHead](assets/MLE.png)
 <h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
-<h3 align="center">Machine Learning Engineer focused on building scalable, production-ready AI systems that solve real business problems.</h3>
+<h3 align="center">Machine Learning Engineer | Deep Learning | GenAI</h3>
 
 - 💼 I design and implement end-to-end ML pipelines: data collection, feature engineering, model training, evaluation, deployment, and monitoring.
 - 🧠 I work with Python, PyTorch, TensorFlow, scikit-learn, SQL, and cloud-native tooling to deliver reliable models.
