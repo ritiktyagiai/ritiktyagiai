@@ -1,5 +1,5 @@
 ![MasterHead](assets/ai-engineer.png)
-<h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
+<h1 align="center">Hello there!</h1>
 <h3 align="center">Machine Learning Engineer • Deep Learning • GenAI</h3>
 
 - 💼 I design and implement end-to-end ML pipelines: data collection, feature engineering, model training, evaluation, deployment, and monitoring.
