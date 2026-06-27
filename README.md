@@ -1,4 +1,4 @@
-![MasterHead](assets/MLE.png)
+![MasterHead](assets/ai-engineer.png)
 <h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
 <h3 align="center">Machine Learning Engineer • Deep Learning • GenAI</h3>
 
