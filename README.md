@@ -3,11 +3,11 @@
 <h1 align="center">Hello there! I'm Ritik Tyagi</h1>
 <h3 align="center">AI Engineer</h3>
 
-- 🤖 I build intelligent AI applications using **Large Language Models, AI Agents, RAG, Machine Learning, and Deep Learning**.
-- ⚡ I develop production-ready AI systems with **FastAPI, Python, LangChain, vector databases, cloud deployment, and modern AI tooling**.
-- 🔒 I'm passionate about **AI Security**, including prompt injection defense, secure LLM applications, model safety, and responsible AI.
-- 🌱 Currently exploring **Agentic AI, MCP (Model Context Protocol), Multi-Agent Systems, AI Infrastructure, and MLOps**.
-- 📫 Reach me at **ritiktyagiai@gmail.com**
+-  I build intelligent AI applications using **Large Language Models, AI Agents, RAG, Machine Learning, and Deep Learning**.
+-  I develop production-ready AI systems with **FastAPI, Python, LangChain, vector databases, cloud deployment, and modern AI tooling**.
+-  I'm passionate about **AI Security**, including prompt injection defense, secure LLM applications, model safety, and responsible AI.
+-  Currently exploring **Agentic AI, MCP (Model Context Protocol), Multi-Agent Systems, AI Infrastructure, and MLOps**.
+-  Reach me at **ritiktyagiai@gmail.com**
 
 
 
@@ -94,7 +94,6 @@
 
 </p>
 
----
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=aurafarmerone&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
