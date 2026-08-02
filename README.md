@@ -1,8 +1,7 @@
 ![MasterHead](assets/ai-engineer.png)
 
-<h1 align="center">Hello there! 👋</h1>
-<h2 align="center">I'm Ritik Tyagi</h2>
-<h3 align="center">AI Engineer • LLMs • AI Agents • Machine Learning • AI Security</h3>
+<h1 align="center">Hello there! I'm Ritik Tyagi</h1>
+<h3 align="center">AI Engineer</h3>
 
 - 🤖 I build intelligent AI applications using **Large Language Models, AI Agents, RAG, Machine Learning, and Deep Learning**.
 - ⚡ I develop production-ready AI systems with **FastAPI, Python, LangChain, vector databases, cloud deployment, and modern AI tooling**.
@@ -10,22 +9,7 @@
 - 🌱 Currently exploring **Agentic AI, MCP (Model Context Protocol), Multi-Agent Systems, AI Infrastructure, and MLOps**.
 - 📫 Reach me at **ritiktyagiai@gmail.com**
 
----
 
-## 🚀 Areas of Expertise
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic Workflows
-- Prompt Engineering & AI Evaluation
-- Machine Learning & Deep Learning
-- NLP & Computer Vision
-- FastAPI & AI API Development
-- Vector Databases & Embeddings
-- MLOps & Model Deployment
-- AI Security & Secure AI Systems
-
----
 
 ## 🌐 Connect with Me
 
@@ -47,7 +31,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Languages, Frameworks & Tools
 
